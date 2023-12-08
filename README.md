@@ -1,2 +1,2 @@
 # hello-test
-set git
+setting up git
